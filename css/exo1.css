@@ -2,3 +2,34 @@
  * L'effroyable fossé entre paragraphes
  * Il faut respecter aussi le gras, l'italique, la largeur des paragraphes…
  */
+ #aToiDeJouer {
+    display: flex;  
+ }
+
+#p1 {
+    margin: 20px 0;
+    
+}
+
+#p2 {
+    margin: 20px 0;
+}
+
+#p3 {
+    margin: 20px 0;
+}
+
+#p4 {
+    margin: 20px 0;
+}
+
+#p5 {
+    margin: 20px 0;
+}
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
